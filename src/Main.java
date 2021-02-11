@@ -9,7 +9,7 @@ public class Main {
         char geschlecht = 'm';
         double notendurchschnitt = 1.5;
         boolean verheiratet = false;
-        Date myBirthday = new Date(805388880000L);
+        Date geburtstag = new Date(805388880000L);
 
         System.out.println("Hello!");
         System.out.println("Mein Name ist " + vorname + " " + nachname + ".");
