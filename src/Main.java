@@ -10,8 +10,7 @@ public class Main {
         double notendurchschnitt = 1.5;
         boolean verheiratet = false;
         Date geburtstag = new Date(805388880000L);
-
-        System.out.println("Hello!");
+        
         System.out.println("Mein Name ist " + vorname + " " + nachname + ".");
         System.out.println("Ich bin " + alter + " Jahre alt und am " + myBirthday + " geboren.");
         System.out.println("Mein Geschlecht ist " + geschlecht + " und ich habe einen Notendurchschnitt von " + notendurchschnitt + ".");
